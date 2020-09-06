@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Light'), local('Bender-Light'), url('http://hb.bizmrg.com/fonts/bender/300.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Light Italic'), local('Bender-LightItalic'), url('http://hb.bizmrg.com/fonts/bender/300i.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/300i.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender'), url('http://hb.bizmrg.com/fonts/bender/400.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Italic'), local('Bender-Italic'), url('http://hb.bizmrg.com/fonts/bender/400i.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/400i.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Bold'), local('Bender-Bold'), url('http://hb.bizmrg.com/fonts/bender/700.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/700.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Bold Italic'), local('Bender-BoldItalic'), url('http://hb.bizmrg.com/fonts/bender/700i.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/700i.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Black'), local('Bender-Black'), url('http://hb.bizmrg.com/fonts/bender/900.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/900.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bender';
+    src: local('Bender Black Italic'), local('Bender-BlackItalic'), url('http://hb.bizmrg.com/fonts/bender/900i.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bender/900i.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}

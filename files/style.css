@@ -1,0 +1,81 @@
+body:before
+{
+    content:"";
+    position:fixed;
+    top:-10px;
+    left:0;
+    width:100%;
+    height:10px;
+    -webkit-box-shadow:0px 0px 10px rgba(0,0,0,.8);
+    -moz-box-shadow:0px 0px 10px rgba(0,0,0,.8);
+    box-shadow:0px 0px 10px rgba(0,0,0,.8);
+    z-index:9999;
+}
+
+body
+{
+    text-align:center;
+    font-family:tahoma;
+}
+
+#pagew
+{
+    display:inline-block;
+    width:1214px;
+    height:784px;
+    background-image: url("/vote/admincp/rus_background.jpg");
+}
+
+#test
+{
+    display:inline-block;
+    width:800px;
+    height:600px;
+}
+
+.option-input {
+    top:40px;
+    height: 38px;
+    width: 38px;
+    color: #fff;
+    display: inline-block;
+    margin: 16px 32px 16px 0;
+    position: relative;
+}
+
+
+.result{
+    display:inline-block;
+    text-align:left;
+    width:1000px;
+    height:500px;
+    border:0px solid #999;
+    margin-top:194px;
+
+}
+
+.poll{
+    display:inline-block;
+    text-align:left;
+    width:1000px;
+    height:500px;
+    padding:10px;
+    font-size:26px;
+    border:1px solid #999;
+    margin-top:194px;
+}
+
+.poll label{
+    font-family: Comic Sans MS;
+    font-size:22px;
+    padding-left:58px;
+}
+
+br
+{
+    margin: 20px 0 28px 0;
+}
+
+
+/* -----------------------------------------------------------------------------------------------------------------------------------------------------*/
+

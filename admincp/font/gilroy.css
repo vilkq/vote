@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: local('Gilroy Light'), local('Gilroy-Light'), url('http://hb.bizmrg.com/fonts/gilroy/300.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/gilroy/300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'), url('http://hb.bizmrg.com/fonts/gilroy/800.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/gilroy/800.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
